@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为啥俺很少看视频？——兼谈“视频”与“文本”在认知心理学方面的差异
-categories: 编程随想
+categories: pt
 ---
 
 
