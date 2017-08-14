@@ -217,4 +217,4 @@ categories: 编程随想
   
 （以下书籍在【[俺的网盘](https://github.com/programthink/books)】分享了电子版）：  
 [尼尔·波兹曼](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%B0%94%C2%B7%E6%B3%A2%E5%85%B9%E6%9B%BC)：《娱乐至死》  
-[尼古拉斯·卡尔](https://en.wikipedia.org/wiki/Nicholas_G._Carr)：《浅薄——互联网如何毒化了我们的大脑》</div>
+[尼古拉斯·卡尔](https://en.wikipedia.org/wiki/Nicholas_G._Carr)：《浅薄——互联网如何毒化了我们的大脑》
