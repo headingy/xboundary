@@ -194,7 +194,7 @@ categories: 编程随想
   
 下图是该片中某个阅兵场面的镜头，用“文字媒介”是很难表达出这种场面的震撼效果。  
 
-![不见图 请翻墙](https://github.com/headingy/xboundary/raw/master/pt/video-vs-text/Bundesarchiv_Bild_102-16196%252C_N%C3%BCrnberg%252C_Reichsparteitag%252C_SA-_und_SS-Appell.jpg "《意志的胜利》片中的阅兵场面")
+![不见图 请翻墙](https://github.com/headingy/xboundary/raw/master/images/pt/Bundesarchiv_Bild_102-16196%252C_N%C3%BCrnberg%252C_Reichsparteitag%252C_SA-_und_SS-Appell.jpg "《意志的胜利》片中的阅兵场面")
 
 
 （《意志的胜利》片中的阅兵场面）   
