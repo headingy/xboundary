@@ -1,31 +1,6 @@
 为啥俺很少看视频？——兼谈“视频”与“文本”在认知心理学方面的差异
 ---
-
-<div markdown="1" style="-evernote-webclip:true">
-
-  
-<div markdown="1" style="font-size: 16px; display: inline-block;">
-
-<div markdown="1" style="overflow-wrap:break-word;word-break:break-word;word-wrap:break-word;font-size:13px !important;background-color:rgb(240, 240, 240);color:rgb(0, 0, 0);">
-
-<div markdown="1" style="font-size:13px !important;">
-
-<div markdown="1" style="font-size:13px !important;">
-
-<div markdown="1" style="font-size:13px !important;">
-
-<div markdown="1" style="font-size:13px !important;">
-
-<div markdown="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px !important;line-height:normal;font-family:"Trebuchet MS", verdana, sans-serif;word-wrap:break-word;overflow:hidden;">
-
-<div markdown="1" style="font-size:13px !important;">
-
-<div markdown="1" style="font-size:13px !important;">
-
-<div markdown="1" style="text-indent:0px;font-size:100%;">
-
-
-<div markdown="1" style="font-size:13px !important;">
+出处：https://program-think.blogspot.com/2017/08/Some-Reasons-to-Watch-Less-Videos.html
 
 ## ★引子
 
@@ -238,26 +213,3 @@
 （以下书籍在【[俺的网盘](https://github.com/programthink/books)】分享了电子版）：  
 [尼尔·波兹曼](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%B0%94%C2%B7%E6%B3%A2%E5%85%B9%E6%9B%BC)：《娱乐至死》  
 [尼古拉斯·卡尔](https://en.wikipedia.org/wiki/Nicholas_G._Carr)：《浅薄——互联网如何毒化了我们的大脑》</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-  
-</div>
